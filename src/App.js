@@ -1,4 +1,9 @@
+//import { BrowserRouter, Routes, Route, Switch } from 'react-router-dom';
 import './App.css';
+//import Home from './pages/Home';
+//import ChecklistVistoria from './pages/ChecklistVistoria';
+
+//import ReactDOM from "react-dom";
 
 import Checklist from './components/Checklist';
 import Footer from './components/Footer';
@@ -14,7 +19,15 @@ function App() {
 
       <Footer  />
  
-
+ {/*
+  
+  <BrowserRouter>
+  <Switch>
+      <Route path="/" element={Home}  />
+      <Route path="/ChecklistVistoria" element={ChecklistVistoria}  />
+    </Switch>
+  </BrowserRouter>
+*/}
     </div>
   );
 }
