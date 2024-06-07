@@ -48,6 +48,22 @@ label{
   font-size: 14px;
   padding: 5px 0 0 0;
 }
+#repro-apro li {
+  list-style-type: none;
+}
+
+#myfile {
+  padding:10px;
+  margin: 10px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+
+.itens-observ {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
 
 /*
 .form{
